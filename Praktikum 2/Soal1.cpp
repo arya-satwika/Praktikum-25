@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
     string email, password, passConfirm;
-    cout << "Masukkan Nama: ";
-    getline(cin, email);
+    cout << "Masukkan Email: ";
+    cin >> email; 
     cout << "Masukan Password: ";
     cin >> password;// ini123
     cout << "Konfirmasi Password: ";
