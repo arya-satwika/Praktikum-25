@@ -1,2 +1,0 @@
-
-    cout << "Masukkan Kategori Buku: ";
